@@ -12,13 +12,12 @@
 
 ## Description
 
-This application allows users to quickly and easily maintain track of their employees, the employee roles, salaries, and employee managers. 
-
-The user of this application is able to view a database of employee information from the command line interface. The user is also able to update employee information using the command line interface. This application is a simple way for businesses to maintain employee records and salary information. 
+In this project we will create a working e-commernce backend using object-relational mapping. 
+We will utilizing an Express.js API and code it to use Sequelize to interface with a MySQL database. This application will is not currently deloyed but we can check the functionality using the insomnia platform.
 
 ## Installation
 
-The employee tracker application can be accessed by cloning down the files from GitHub. The user will then need to install the necessary dependecies and run node index.js from the command line.
+This e-commerce backend application can be accessed by cloning down the files from this GitHub. The user will then need to install the necessary dependecies and run node server.js from the command line. User will also need to initialize the database and seed it.
 
 ## Usage
 ![GET request2](https://github.com/aaront080/e-commerce-back-end-site/assets/143736506/39530ce8-a9b3-4ba2-bb78-6a5632f4edfb)
@@ -43,9 +42,14 @@ POST/PUT/DELETE for categories
 
 ## Contributing
 
-
-
+- Referenced the Xpert Learning Assistant
+- Referenced class activities found in the 13-ORM module
+- [Sequelize docs](https://sequelize.org/docs/v6/getting-started/)
+- [SQL docs](https://dev.mysql.com/doc/)
+  
 ## Tests
 N/A
 
 ## License
+
+This project uses the MIT license.
